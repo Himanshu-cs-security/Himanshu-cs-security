@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi, I'm **Himanshu** 👋  
-A passionate **Computer Science Engineering student** focused on **Cyber Security, Java Full-Stack Development, and Problem Solving**. I enjoy building secure, scalable applications and exploring emerging technologies like Cloud, Blockchain, and AI.  
+A passionate **Computer Science Engineering student** focused on **Cyber Security, Java Full-Stack Development, and Problem Solving**. I enjoy building secure, scalable applications and exploring emerging technologies like **Cloud, Blockchain, and AI**.  
 
 - 🔭 Currently working on **Cyber Security & Java Full-Stack Projects**  
 - 👯 Looking to collaborate on **Open Source, Security, and Web Development Projects**  
@@ -58,36 +58,26 @@ A passionate **Computer Science Engineering student** focused on **Cyber Securit
 ---
 
 # 🏆 GitHub Achievements:
-![](https://github-profile-trophy.vercel.app/?username=Himanshu-cs-security&theme=radical&no-frame=false&no-bg=false&margin-w=8)
+![](https://github-profile-trophy.vercel.app/?username=Himanshu-cs-security&theme=darkhub&no-frame=false&margin-w=8)
 
 ---
 
 # 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Himanshu-cs-security&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-![](https://github-readme-stats.vercel.app/api?username=Himanshu-cs-security&theme=tokyonight&hide_border=false&include_all_commits=true)
+![](https://streak-stats.demolab.com/?user=Himanshu-cs-security&theme=dark&hide_border=false)<br/>
 
-![](https://nirzak-streak-stats.vercel.app/?user=Himanshu-cs-security&theme=tokyonight&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu-cs-security&theme=tokyonight&hide_border=false&layout=compact)
-
----
-
-# 📈 Contribution Graph:
-![](https://github-readme-activity-graph.vercel.app/graph?username=Himanshu-cs-security&theme=tokyo-night)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Himanshu-cs-security&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
-### 🐍 Contribution Snake:
-![snake gif](https://github.com/Himanshu-cs-security/Himanshu-cs-security/blob/output/github-contribution-grid-snake.svg)
+### ✍️ Random Dev Quote:
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 
-### ✍️ Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://komarev.com/ghpvc/?username=Himanshu-cs-security&icon=0&color=0)
 
 ---
 
-![](https://komarev.com/ghpvc/?username=Himanshu-cs-security&color=blueviolet&style=for-the-badge)
-
----
 ⭐ *"Code Secure. Build Scalable. Never Stop Learning."*
